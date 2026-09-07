@@ -11,7 +11,7 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
   datasource:
     username: anuj
-    password: passsword
+    password: password
     driver-class-name: org.postgresql.Driver
   data:
     redis:
